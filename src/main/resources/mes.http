@@ -1,0 +1,6 @@
+### 初始化子任务数据
+GET {{baseUrl}}/subtask/initdata?taskType=TEAR_LINE_INSPECTION
+Content-Type: application/x-www-form-urlencoded
+
+
+###
